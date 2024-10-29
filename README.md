@@ -16,8 +16,10 @@ Custom Commands: Runs specific programs like a game or an external "Doctor Stran
 Shutdown Feature: Can shut down the system on command.
 These features provide users with hands-free, voice-driven interactions to boost efficiency and manage day-to-day activities.
 
-STRUCTURE:
-foldername/
+## Project Structure
+The following is the structure of the project:
+
+IVJARIS/
 ├── __pycache__/
 ├── Dictapp.py
 ├── game.py
@@ -32,3 +34,6 @@ foldername/
 ├── SearchNow.py
 ├── ss.jpg
 └── Whatsapp.py
+
+
+
